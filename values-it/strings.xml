@@ -111,9 +111,9 @@
     <string name="show_in_recent_msg">Spuntalo se il pop up rimane in bug sullo sfondo</string>
     <string name="misc">Altro</string>
     <string name="action_btn_unlock_title">Aziona il pulsante di blocco</string>
-    <string name="action_btn_unlock_msg">Sblocca quando premi sui pulsanti di azione della notifica. [solo per il tema AndroidWear ]</string>
+    <string name="action_btn_unlock_msg">Sblocca quando premi sui pulsanti di azione della notifica. [solo per il tema AndroidWear]</string>
     <string name="auto_off_msg">Spengi lo schermo dopo aver rimosso l’ultima notifica </string>
-    <string name="auto_off_title">Auto screen off</string>
+    <string name="auto_off_title">Spegnimento schermo automatico</string>
     <string name="title_section_privacy">Modalità privacy </string>
     <string name="privacy_mode_msg">Segna le applicazioni che generano notifiche i cui contenuti non devono essere mostrati</string>
     <string name="new_notification">Nuova Notifica</string>
@@ -142,11 +142,11 @@
     <string name="uninstall">Disinstalla </string>
     <string name="uninstall_msg">Amministratore di dispositivo è stato disabilitato. Ora puoi disinstallare l’app normalmente. </string>
     <string name="run_foreground_title">Servizio attivo in foreground </string>
-    <string name="run_foreground_msg">E’ mostrata una notifica persistente. E’ necessario teere il servizio attivo se il tuo OS lo disabiluta di frequente</string>
+    <string name="run_foreground_msg">E’ mostrata una notifica persistente. E’ necessario tenere il servizio attivo se il tuo OS lo disabilita di frequente</string>
     <string name="service_running_title">Notific sta funzionando </string>
     <string name="click_for_more_info">Clicca qui per maggiori informazioni </string>
     <string name="hide_notification_title">Nascondi forzatamente la notifica </string>
-    <string name="hide_notification_msg">Sperimentale.Potrebbe non funzionare, o il servizio potrebbe essere disabilitato. \nReboot after changing</string>
+    <string name="hide_notification_msg">Sperimentale.Potrebbe non funzionare, o il servizio potrebbe essere disabilitato. \nRiavvio necessario.</string>
     <string name="after_unlock_title">Mostra dopo lo sblocco </string>
     <string name="time_saved">Tempo salvato :</string>
     <string name="type_message_prompt">Digita un messaggio di testo </string>
@@ -155,26 +155,26 @@
     <string name="convo_mode_help_msg"> Mostra notifiche separate per ogni contatto. Rende più semplice l’uso della risposta rapida.</string>
     <string name="double_tap_sleep">Tocca lo schermo due volte per il blocco </string>
     <string name="double_tap_sleep_detail">Tocca due volte lo spazio vuoto nel pop up per spegnere lo schermo</string>
-    <string name="lockscreen_disabled">Lockscreen disabled</string>
-    <string name="lockscreen_enabled">Lockscreen enabled</string>
-    <string name="theme_unsupported">Theme not supported</string>
-    <string name="theme_unsupported_msg">Please use \'Android Wear\' or \'Ambient Dark\' theme to enable Lockscreen</string>
-    <string name="uninstall_warning_condition">Remember to disable this option when you want to uninstall Notific.</string>
-    <string name="dont_show_popup_title">Don\'t show pending popups on manual unlock</string>
-    <string name="dont_show_popup_msg">Popup is shown only when notification comes. This setting works only if Lockscreen is not set.</string>
-    <string name="android_wear_theme_settings">Android Wear theme settings</string>
-    <string name="Notification_title_size">Notification title font size</string>
-    <string name="notification_body_size">Notification body font size</string>
-    <string name="clock_size">Clock font size</string>
-    <string name="clock_format">12hr format</string>
-    <string name="clock_am_pm">Show AM / PM</string>
-    <string name="reply_settings">Reply Settings</string>
-    <string name="theme_custom">THEME CUSTOMIZATIONS</string>
-    <string name="cover_the_proximity_sensor_with_your_hand_and_click_the_button">Cover the proximity sensor with your hand and click the button</string>
-    <string name="set_covered_value">Set covered value</string>
-    <string name="uncover_the_proximity_sensor_and_click_the_button">Uncover the proximity sensor and click the button</string>
-    <string name="set_uncovered_value">Set uncovered value</string>
-    <string name="show_system_lockscreen_if_no_notifications">Show system lockscreen if no notifications</string>
+    <string name="lockscreen_disabled">Lockscreen disabilitato</string>
+    <string name="lockscreen_enabled">Lockscreen abilitato</string>
+    <string name="theme_unsupported">Tema non supportato</string>
+    <string name="theme_unsupported_msg">Per favore, usa il tema \'Android Wear\' oppure \'Ambient Dark\' per abilitare la schermata di blocco</string>
+    <string name="uninstall_warning_condition">Ricorda di disabilitare questa opzione quando vorrai disinstallare Notific.</string>
+    <string name="dont_show_popup_title">Non mostrare i popup non visti in caso di sblocco manuale</string>
+    <string name="dont_show_popup_msg">Il popup è mostrato solo quando arriva una notifica. Questa impostsazione funziona solo se il blocco schermo non è impostato.</string>
+    <string name="android_wear_theme_settings">Impostazioni tema Android Wear</string>
+    <string name="Notification_title_size">Dimensione font del titolo della notifica</string>
+    <string name="notification_body_size">Dimensione font del corpo della notifica</string>
+    <string name="clock_size">Dimensione font dell\'orologio</string>
+    <string name="clock_format">Formato a 12 ore</string>
+    <string name="clock_am_pm">Mostra AM / PM</string>
+    <string name="reply_settings">Impostazioni di risposta</string>
+    <string name="theme_custom">PERSONALIZZAZIONI TEMA</string>
+    <string name="cover_the_proximity_sensor_with_your_hand_and_click_the_button">Copri il sensore di prossimità con la tua mano e clicca il pulsante</string>
+    <string name="set_covered_value">Imposta il valore quando coperto</string>
+    <string name="uncover_the_proximity_sensor_and_click_the_button">Scopri il sensore di prossimità e clicca il pulsante</string>
+    <string name="set_uncovered_value">Imposta il valore quando scoperto</string>
+    <string name="show_system_lockscreen_if_no_notifications">Mostra il blocco schermo di sistema se non vi sono notifiche</string>
 
 
     <string-array name="immersive_mode">
@@ -192,10 +192,10 @@
     </string-array>
 
     <string-array name="after_unlock_mode">
-        <item>If unseen</item>
-        <item>Never</item>
-        <item>If notification present</item>
-        <item>Always</item>
+        <item>Se non visto</item>
+        <item>Mai</item>
+        <item>Se è presente una notifica</item>
+        <item>Sempre</item>
     </string-array>
 
 </resources>
