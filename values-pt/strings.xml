@@ -193,5 +193,9 @@
     <string name="uncover_the_proximity_sensor_and_click_the_button">Uncover the proximity sensor and click the button</string>
     <string name="set_uncovered_value">Set uncovered value</string>
     <string name="show_system_lockscreen_if_no_notifications">Show system lockscreen if no notifications</string>
+    <string name="quick_reply_title">Quick reply button</string>
+    <string name="quick_reply_summary">Show quick reply button in Whatsapp or Telegram</string>
+    <string name="disable_battery_low_title">Disable when battery low</string>
+    <string name="battery_low_summary">Prevents battery drain due to repeated battery low notification from system</string>
 
 </resources>
