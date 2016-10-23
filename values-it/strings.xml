@@ -108,7 +108,7 @@
     <string name="blur_title">Sfondo sfuocato</string>
     <string name="blur_msg">Questo aumenterà automaticamente l’uso della memoria</string>
     <string name="show_in_recent_title">Mostra in app recenti\schermo</string>
-    <string name="show_in_recent_msg">Spuntalo se il pop up rimane in bug sullo sfondo</string>
+    <string name="show_in_recent_msg">Spuntalo se il popup rimane in bug sullo sfondo</string>
     <string name="misc">Altro</string>
     <string name="action_btn_unlock_title">Aziona il pulsante di blocco</string>
     <string name="action_btn_unlock_msg">Sblocca quando premi sui pulsanti di azione della notifica. [solo per il tema AndroidWear]</string>
@@ -121,7 +121,7 @@
     <string name="show_user_pic_msg">Mostra la foto dell’utente nell’immagine di notifica </string>
     <string name="wear_theme_only">Solo per il tema Android Wear </string>
     <string name="show_title_in_privacy_mode">Mostra il titolo in modalità privacy </string>
-    <string name="smart_screen_off_title">auto spegnimento intelligente</string>
+    <string name="smart_screen_off_title">spegnimento intelligente automatico</string>
     <string name="smart_screen_off_msg">non applicare spegnimento intelligente quando sbloccato dall’utente</string>
     <string name="disable_admin">Clicca per disabilitare amministratore del dispositivo </string>
     <string name="enable_wakelock_title">Abilita wakelock</string>
@@ -130,7 +130,7 @@
     <string name="long_press_summary">Mostra i dettagli di notifica nella modalità privacy quando tieni premuto sulla notifica</string>
     <string name="repeat_notification_heading">Notifiche ricorrenti </string>
     <string name="repeat_notification_enable">Abilita le notifiche ricorrenti </string>
-    <string name="repeat_notification_enable_desc">Consenti a Notific di far riapparire il po up se non lo hai ancora visto</string>
+    <string name="repeat_notification_enable_desc">Consenti a Notific di far riapparire il popup se non lo hai ancora visto</string>
     <string name="repeat_interval">Intervallo per la ripetizione del popup </string>
     <string name="repeat_interval_desc">Intervallo di tempo in minuti oltre il quale il popup si mostrerà nuovamente (default: ogni 5 minuti)</string>
     <string name="stop_repeat_time">Basta riapparire dopo </string>
@@ -141,12 +141,12 @@
     <string name="num_notifications_displayed_banner_msg">Notifiche mostrate </string>
     <string name="uninstall">Disinstalla </string>
     <string name="uninstall_msg">Amministratore di dispositivo è stato disabilitato. Ora puoi disinstallare l’app normalmente. </string>
-    <string name="run_foreground_title">Servizio attivo in foreground </string>
+    <string name="run_foreground_title">Servizio attivo in primo piano </string>
     <string name="run_foreground_msg">E’ mostrata una notifica persistente. E’ necessario tenere il servizio attivo se il tuo OS lo disabilita di frequente</string>
     <string name="service_running_title">Notific sta funzionando </string>
     <string name="click_for_more_info">Clicca qui per maggiori informazioni </string>
     <string name="hide_notification_title">Nascondi forzatamente la notifica </string>
-    <string name="hide_notification_msg">Sperimentale.Potrebbe non funzionare, o il servizio potrebbe essere disabilitato. \nRiavvio necessario.</string>
+    <string name="hide_notification_msg">Sperimentale. Potrebbe non funzionare, o il servizio potrebbe essere disabilitato. \nRiavvio necessario.</string>
     <string name="after_unlock_title">Mostra dopo lo sblocco </string>
     <string name="time_saved">Tempo salvato :</string>
     <string name="type_message_prompt">Digita un messaggio di testo </string>
@@ -154,7 +154,7 @@
     <string name="whatsapp_convo_mode">Modalità conversazione Whatsapp </string>
     <string name="convo_mode_help_msg"> Mostra notifiche separate per ogni contatto. Rende più semplice l’uso della risposta rapida.</string>
     <string name="double_tap_sleep">Tocca lo schermo due volte per il blocco </string>
-    <string name="double_tap_sleep_detail">Tocca due volte lo spazio vuoto nel pop up per spegnere lo schermo</string>
+    <string name="double_tap_sleep_detail">Tocca due volte lo spazio vuoto nel popup per spegnere lo schermo</string>
     <string name="lockscreen_disabled">Lockscreen disabilitato</string>
     <string name="lockscreen_enabled">Lockscreen abilitato</string>
     <string name="theme_unsupported">Tema non supportato</string>
@@ -198,11 +198,11 @@
         <item>Sempre</item>
     </string-array>
 
-<string name="disable_battery_low_title">Disable when battery low</string>
-<string name="battery_low_summary">Prevents battery drain due to repeated battery low notification from system</string>
-<string name="quick_reply_title">Quick reply button</string>
-<string name="quick_reply_summary">Show quick reply button in Whatsapp or Telegram</string>
-    <string name="enable_haptic">Enable haptic feedback</string>
-    <string name="charge_indicator">Show charge indicator</string>
+<string name="disable_battery_low_title">Disabilita quando la batteria è scarica</string>
+<string name="battery_low_summary">Previene il consumo della batteria dovuto alle ripetute notifiche di batteria scarica dal sistema</string>
+<string name="quick_reply_title">Pulsante di risposta rapida</string>
+<string name="quick_reply_summary">Mosta il pulsante di risposta rapida in Whatsapp o Telegram</string>
+    <string name="enable_haptic">Abilita il feedback tattile</string>
+    <string name="charge_indicator">Mostra l'indicatore di ricarica</string>
 
 </resources>
