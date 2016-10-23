@@ -198,6 +198,8 @@ Ananda Bibek Ray.
     <string name="quick_reply_summary">Show quick reply button in Whatsapp or Telegram</string>
     <string name="disable_battery_low_title">Disable when battery low</string>
     <string name="battery_low_summary">Prevents battery drain due to repeated battery low notification from system</string>
+    <string name="enable_haptic">Enable haptic feedback</string>
+    <string name="charge_indicator">Show charge indicator</string>
 
 
 </resources>
