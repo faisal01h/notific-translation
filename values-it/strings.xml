@@ -160,7 +160,7 @@
     <string name="theme_unsupported">Tema non supportato</string>
     <string name="theme_unsupported_msg">Per favore, usa il tema \'Android Wear\' oppure \'Ambient Dark\' per abilitare la schermata di blocco</string>
     <string name="uninstall_warning_condition">Ricorda di disabilitare questa opzione quando vorrai disinstallare Notific.</string>
-    <string name="dont_show_popup_title">Non mostrare Don\'t show pending popups on manual unlock</string>
+    <string name="dont_show_popup_title">Non mostrare i popup non visti in caso di sblocco manuale</string>
     <string name="dont_show_popup_msg">Il popup è mostrato solo quando arriva una notifica. Questa impostsazione funziona solo se il blocco schermo non è impostato.</string>
     <string name="android_wear_theme_settings">Impostazioni tema Android Wear</string>
     <string name="Notification_title_size">Dimensione font del titolo della notifica</string>
