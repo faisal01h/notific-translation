@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title_section1">Pulpit</string>
+    <string name="title_section2">Czarna lista</string>
+    <string name="title_section3">Ustawienia</string>
+    <string name="navigation_drawer_open">Otwórz panel nawigacji</string>
+    <string name="navigation_drawer_close">Zamknij panel nawigacji</string>
+    <string name="action_example">Test</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="help">Pomoc</string>
+    <string name="about">O aplikacji</string>
+    <string name="service_name">Serwis powiadomienia</string>
+    <string name="view_notification">Podgląd</string>
+    <string name="dismiss_notification">Pomiń</string>
+
+    <string name="main_menu_popup_timeout_title">Czas powiaomienia</string>
+    <string name="main_menu_popup_timeout_description">Opóźnienie w sekundach gdy ekran pozostanie widoczny. Zostaw puste lub zero dla domyślnego systemu</string>
+    <string name="main_menu_popup_proximity_title">Opóźnienie czujnika zbliżeniowego</string>
+    <string name="main_menu_popup_proximity_description">Jak długo czujnik zbliżeniowy będzie aktywny w trybie kieszonkowym. Pozostaw puste dla domyślnego 10 sekund.</string>
+    <string name="main_menu_popup_orientation_title">Orientacja ekranu blokady</string>
+    <string name="main_menu_popup_orientation_description">Nie zmieniaj orientacji wyskakującego powiadomienia, gdy urządzenie jest przechylone.</string>
+    <string name="about_dialog"><i>Projekt i opracowanie:</i>         \nAnanda Bibek Ray.
+        \n\nWięcej szczegółów i pomocy przejdź do dowolnego linku podanego w poniższych przyciskach</string>
+    <string name="free_version">Funkcja czarnej listy / białej listy nie jest dostępna w bezpłatnej wersji programu Notific. Uaktualnij do wersji płatnej, aby korzystać z tego urządzenia i zachęcić mnie do uczynienia aplikacji jeszcze lepszą.
+        \n\nDziękuję za używanie Notific.</string>
+
+    <string name="warning_blacklist">Zmieniasz tryb na Czarną listę. W tym trybie otrzymasz wyskakujące powiadomienia dla WSZYSTKICH aplikacji, POZA TYMI, które zostały oznaczone.
+        \n\nNIE zaznaczaj tych aplikacji, dla których chcesz otrzymywać wyskakujące okienka.</string>
+
+    <string name="warning_whitelist">Zmieniasz tryb na białą listę. W tym trybie otrzymasz wyskakujące powiadomienia TYLKO dla aplikacji zaznaczonych.
+        \n\nPAMIETAJ, ABY ZAZNACZYĆ aplikacje, dla których chcesz otrzymywać wyskakujące okienka.</string>
+
+    <string name="warning_test_white">Wygląda na to, że włączyłeś \"tryb białej listy\". W tym trybie otrzymasz okienka powiadomienia TYLKO dla aplikacji zaznaczonych.
+        \n\nJeśli chcesz, aby funkcja TEST działała, musisz zaznaczyć Notific w ustawieniach białej listy. </string>
+
+    <string name="warning_test_black">Wygląda na to, że masz Notific na czarnej liście.
+        \n\nJeśli chcesz, aby funkcja TEST działała, musisz odznaczyć Notific w ustawieniach czarnej listy. </string>
+    <string name="notification_settings">Ustawienia powiadomień</string>
+    <string name="handle_lowPriority">Pokaż powiadomienia o niskim priorytecie</string>
+    <string name="handle_lowPriority_msg">Na przykład karty pogodowe Google Now</string>
+    <string name="expanded_title">Pokaż powiadomienia rozwiniete</string>
+    <string name="expanded_msg">Pokaż powiadomienia\' przyciski szybkich akcji jeśli dostepne</string>
+    <string name="sensor_settings_header">Ustawienia sensora</string>
+    <string name="screenOn_title">Włącz ekran</string>
+    <string name="screenOn_msg">Ekran włączy się przy nowym powiadomieniu</string>
+    <string name="pocket_title">Uruchom tryb kieszonkowy</string>
+    <string name="pocket_msg">Ekran zostanie włączony dopiero po wyjęciu z kieszeni, sprawdzając czujnik zbliżeniowy</string>
+    <string name="orientation_title">Blokuj popup na ustawieniu pionowym</string>
+    <string name="theme_header">Ustawienia czasu</string>
+    <string name="select_theme">Wybierz temat</string>
+    <string name="wall_brightness_title">Jasność tapety</string>
+    <string name="wall_brightness_msg">Ustaw 0 dla czarnego</string>
+    <string name="slider_padding_title">Odstęp slidera od lewej/prawej</string>
+    <string name="slider_padding_msg">Zwiększ wartość (w dp) by zwiększyć szerokość. Zero lub puste pole jako domyślne</string>
+    <string name="immersive_title">Skonfiguruj tryb zanurzenia</string>
+    <string name="immersive_msg">Wybierz, które paski systemu ukryć</string>
+    <string name="troubleshoot_header">Rozwiązywanie problemów</string>
+    <string name="alt_popup_title">Alternatywny mechanizm popup</string>
+    <string name="alt_popup_msg">Zalecane dla większej stabilności, ale popup pojawi się trochę opóźniony.</string>
+    <string name="calibration_enable">Użyj dowolnej kalibracji czujnika</string>
+    <string name="calibration_msg">Użyj tego, jeśli masz problemy z trybem kieszonkowym</string>
+    <string name="calibrate_option">Kalibruj sensor</string>
+    <string name="sensor_delay">Opóźnienie czujnika</string>
+    <string name="sensor_delay_msg">Zwiększ wartość, jeśli czujnik zbliżeniowy nie działa nawet po kalibracji</string>
+    <string name="warning">Ostrzeżenie</string>
+    <string name="go_blacklist">Przejdź do ustawień Czarnej listy</string>
+    <string name="test_title_1">Testowe powiadomienie 1</string>
+    <string name="test_body_1">Mr. Jingles mówi Cześć!</string>
+    <string name="action1">Akcja 1</string>
+    <string name="action2">Akcja 2</string>
+    <string name="test_title_2">Test powiadomienia 2</string>
+    <string name="test_body_2">Mr. Jingles mówi Cześć! Znowu!!</string>
+    <string name="quick_action">SzybkieAkcje</string>
+    <string name="free">Wersja darmowa</string>
+    <string name="play_store">Uaktualnij w Play Store</string>
+    <string name="display_mode_title">Pokaż powiadomienie kiedy</string>
+    <string name="permission_text">Kliknij tutaj, aby skonfigurować uprawnienia</string>
+    <string name="screenlock_permission_text">Kliknij tutaj, aby skonfigurować uprawnienia blokady ekranu</string>
+    <string name="notif_access_grant">Dostęp do powiadomień przyznany</string>
+    <string name="notif_access_not_grant">Dostęp do powiadomień nie przyznany</string>
+    <string name="service_active">Usługa w tle jest aktywna</string>
+    <string name="service_inactive">Usługa w tle nieaktywna</string>
+    <string name="working_correct">Aplikacja działa poprawnie</string>
+    <string name="permission_again">Przyznaj ponownie uprawnienia lub zrestartuj urządzenie</string>
+    <string name="perm_not_grant">Nie udzielono zgody na dostęp do powiadomienia</string>
+    <string name="lock_perm_ok">Udzielono uprawnień do blokady ekranu</string>
+    <string name="lock_permission_not_grant">Nie udzielono uprawnień do blokady ekranu</string>
+    <string name="lock_msg_1">Wymagany do blokady ekranu</string>
+    <string name="lock_msg_2">(Odinstalowanie włączone) Wymagane do automatycznego blokowania ekranu po ostatnim odrzuceniu powiadomienia</string>
+    <string name="lock_msg_big">Wymagane przez Notific, aby automatycznie zablokować ekran po odrzuceniu ostatniego powiadomienia na liście</string>
+    <string name="blacklist_mode">Tryb białej listy</string>
+    <string name="whitelist_mode">Tryb czarnej listy</string>
+    <string name="night_title">Uruchom tryb nocny</string>
+    <string name="night_msg">Notific nie będzie aktywny w danym czasie</string>
+    <string name="night_start">Tryb nocny zaczyna się od</string>
+    <string name="night_end">Tryb nocny kończy się o</string>
+    <string name="dont_change">Nie zmieniaj</string>
+    <string name="got_it">Zrozumiałem !</string>
+    <string name="developer">Developer</string>
+    <string name="links">Linki</string>
+    <string name="credits">Lista płac</string>
+    <string name="blur_title">Tło rozmazane</string>
+    <string name="blur_msg">To znacznie zwiększy wykorzystanie pamięci</string>
+    <string name="show_in_recent_title">Pokaż na ekranie ostatnich aplikacji\' </string>
+    <string name="show_in_recent_msg">Włącz tę opcję, jeśli napotkasz przy pop'upie problem z tapetą</string>
+    <string name="misc">Inne</string>
+    <string name="action_btn_unlock_title">Odblokowanie przycisku akcji</string>
+    <string name="action_btn_unlock_msg">Odblokuj blokadę klawiszy, gdy przyciski akcji są wciśniete. [Tylko w Android Wear]</string>
+    <string name="auto_off_msg">Wyłącz ekran po odrzuceniu ostatniego powiadomienia</string>
+    <string name="auto_off_title">Auto-wyłączenie ekranu</string>
+    <string name="title_section_privacy">Tryb Incognito</string>
+    <string name="privacy_mode_msg">Zaznacz te aplikacje, których treść powiadomień nie powinna być wyświetlana</string>
+    <string name="new_notification">Nowe Powiadomienie</string>
+    <string name="content_not_shown">Treści nie ujawniono</string>
+    <string name="show_user_pic_msg">Pokaż avatar w powiadomieniu</string>
+    <string name="wear_theme_only">Tylko dla Android Wear</string>
+    <string name="show_title_in_privacy_mode">Pokaż tytuł w trybie prywatności</string>
+    <string name="smart_screen_off_title">Inteligentne auto-wyłączenie</string>
+    <string name="smart_screen_off_msg">Nie włączaj funkcji automatycznego wyłączania po odblokowaniu przez użytkownika (30 sekund po powiadomieniu)</string>
+    <string name="disable_admin">(Opcja deinstalacji zablokowana) Kliknij, aby wyłączyć administratora urządzenia przed deinstalacją</string>
+    <string name="enable_wakelock_title">Włącz wakelock</string>
+    <string name="enable_wakelock_msg">Włącz jeśli ekran nie włącza się automatycznie</string>
+    <string name="long_press_title">Pokaż zawartość po długim naciśnięciu</string>
+    <string name="long_press_summary">Otwórz szczegóły powiadomienia w trybie prywatnym, gdy długo naciśniesz na powiadomienie</string>
+    <string name="repeat_notification_heading">Powtarzające Powiadomienia</string>
+    <string name="repeat_notification_enable">Włącz Powtarzające Powiadomienia</string>
+    <string name="repeat_notification_enable_desc">Pozwól Notific, aby powiadomienia pojawiły się ponownie, jeśli ich nie sprawdziłeś</string>
+    <string name="repeat_interval">Okres ponownego pokazania</string>
+    <string name="repeat_interval_desc">Przedział czasu w minutach, po którym pojawi się ponownie popup (domyślnie: co 5 minut)</string>
+    <string name="stop_repeat_time">Przestań ponownie pojawiać się po</string>
+    <string name="stop_repeat_time_desc">Czas w minutach, gdy powiadomienia przestaną pojawiać się ponownie (domyślnie: 30 minut)</string>
+    <string name="upgrade_to_pro_msg">Jeśli korzystasz z bezpłatnej wersji, rozważ uaktualnienie do wersji Pro w celu wsparcia programisty i włączenia ochrony ustawień prywatności</string>
+    <string name="no">Nie</string>
+    <string name="go_play_store">Idź do Play Store</string>
+    <string name="num_notifications_displayed_banner_msg">Powiadomienia widoczne</string>
+    <string name="uninstall">Odinstaluj</string>
+    <string name="uninstall_msg">Administrator urządzenia został wyłączony. Teraz możesz normalnie odinstalować aplikację.</string>
+    <string name="run_foreground_title">Uruchom usługę na pierwszym planie</string>
+    <string name="run_foreground_msg">Zostanie wyświetlone trwałe powiadomienie. Musisz zablokowac na stałę proces, jeśli system operacyjny zabija go często</string>
+    <string name="service_running_title">Proces Notific działa</string>
+    <string name="click_for_more_info">Kliknij, aby uzyskać więcej informacji</string>
+    <string name="hide_notification_title">Wymuszenie ukrycia powiadomienia</string>
+    <string name="hide_notification_msg">Eksperymentalny. Może nie działać lub usługa może nadal zostać zabita \nReboot po zmianie</string>
+    <string name="after_unlock_title">Po odblokowaniu pokazuj</string>
+    <string name="time_saved">Czas zachowany :</string>
+    <string name="type_message_prompt">Wpisz wiadomość</string>
+    <string name="send">Wyślij</string>
+    <string name="whatsapp_convo_mode">Tryb konwersacji Whatsapp</string>
+    <string name="convo_mode_help_msg">Wyświetl osobne powiadomienie dla każdego kontaktu. Ułatwia stosowanie funkcji odpowiedź bezpośrednia</string>
+    <string name="double_tap_sleep">Podwójne puknięcie aby uśpić</string>
+    <string name="double_tap_sleep_detail">Kliknij podwójnie pustą przestrzeń poza pop'upem, aby wyłączyć ekran</string>
+    <string name="lockscreen_disabled">Ekran blokady wyłączony</string>
+    <string name="lockscreen_enabled">Ekran blokady włączony</string>
+    <string name="theme_unsupported">Temat nie wspierany</string>
+    <string name="theme_unsupported_msg">Proszę użyć \'Android Wear\' lub \'Ambient Dark\' aby włączyć blokadę ekranu</string>
+    <string name="uninstall_warning_condition">Pamiętaj, aby wyłączyć tę opcję, ZANIM odinstalujesz Notific.</string>
+    <string name="dont_show_popup_title">Nie pokazuj otwartych okienek na ręcznym odblokowaniu</string>
+    <string name="dont_show_popup_msg">Popup jest wyświetlany tylko w przypadku powiadomienia. To ustawienie działa tylko wtedy, gdy nie jest ustawiony tryb blokady ekranu.</string>
+    <string name="android_wear_theme_settings">Ustawienia tematu Android Wear</string>
+    <string name="Notification_title_size">Rozmiar czcionki tytułu powiadomienia</string>
+    <string name="notification_body_size">Rozmiar czcionki treści powiadomienia</string>
+    <string name="clock_size">Kolor czcionki zegara</string>
+    <string name="clock_format">Format 12H</string>
+    <string name="clock_am_pm">Pokaż AM / PM</string>
+    <string name="reply_settings">Powtórz Ustawienia</string>
+    <string name="theme_custom">USTAWIENIA TEMATU</string>
+    <string name="cover_the_proximity_sensor_with_your_hand_and_click_the_button">Przykryj czujnik zbliżeniowy ręką i kliknij przycisk</string>
+    <string name="set_covered_value">Ustaw wartość zadeklarowaną</string>
+    <string name="uncover_the_proximity_sensor_and_click_the_button">Odsłoń czujnik zbliżeniowy i kliknij przycisk</string>
+    <string name="set_uncovered_value">Ustaw wartość odsłoniętą</string>
+    <string name="show_system_lockscreen_if_no_notifications">Pokazuj systemową blokadę ekranu, jeśli nie ma powiadomień</string>
+    <string name="quick_reply_title">Przycisk szybkiej odpowiedzi</string>
+    <string name="quick_reply_summary">Pokaż przycisk szybkiej odpowiedzi w programie Whatsapp lub Telegram</string>
+
+
+    <string-array name="immersive_mode">
+        <item>Wyłączony</item>
+        <item>Ukryj pasek naswigacji</item>
+        <item>Ukryj pasek postepu</item>
+        <item>Ukryj oba</item>
+    </string-array>
+
+    <string-array name="display_mode">
+        <item>Ekran wyłączony LUB włączony ekran blokady</item>
+        <item>Ekran blokady wyłączony</item>
+        <item>Na ekranie blokady</item>
+        <item>Ekran wyłączony ORAZ włączony ekran blokady</item>
+    </string-array>
+
+    <string-array name="after_unlock_mode">
+        <item>Jesli niewidoczne</item>
+        <item>Nigdy</item>
+        <item>Jeśli pojawi się powiadomienie</item>
+        <item>Zawsze</item>
+    </string-array>
+    <string name="disable_battery_low_title">Wyłącz przy niskim poziomi baterii</string>
+    <string name="battery_low_summary">Zapobiega wyczerpaniu baterii dzięki powtarzającym się powiadomieniom o niskim poziome baterii</string>
+    <string name="enable_haptic">Włącz haptic feedback</string>
+    <string name="charge_indicator">Pokaż wskaźnik ładowania</string>
+
+</resources>
