@@ -103,7 +103,7 @@
     <string name="blur_title">Tło rozmazane</string>
     <string name="blur_msg">To znacznie zwiększy wykorzystanie pamięci</string>
     <string name="show_in_recent_title">Pokaż na ekranie ostatnich aplikacji\' </string>
-    <string name="show_in_recent_msg">Włącz tę opcję, jeśli napotkasz przy pop'upie problem z tapetą</string>
+    <string name="show_in_recent_msg">Włącz tę opcję, jeśli napotkasz przy pop\'upie problem z tapetą</string>
     <string name="misc">Inne</string>
     <string name="action_btn_unlock_title">Odblokowanie przycisku akcji</string>
     <string name="action_btn_unlock_msg">Odblokuj blokadę klawiszy, gdy przyciski akcji są wciśniete. [Tylko w Android Wear]</string>
@@ -149,7 +149,7 @@
     <string name="whatsapp_convo_mode">Tryb konwersacji Whatsapp</string>
     <string name="convo_mode_help_msg">Wyświetl osobne powiadomienie dla każdego kontaktu. Ułatwia stosowanie funkcji odpowiedź bezpośrednia</string>
     <string name="double_tap_sleep">Podwójne puknięcie aby uśpić</string>
-    <string name="double_tap_sleep_detail">Kliknij podwójnie pustą przestrzeń poza pop'upem, aby wyłączyć ekran</string>
+    <string name="double_tap_sleep_detail">Kliknij podwójnie pustą przestrzeń poza pop\'upem, aby wyłączyć ekran</string>
     <string name="lockscreen_disabled">Ekran blokady wyłączony</string>
     <string name="lockscreen_enabled">Ekran blokady włączony</string>
     <string name="theme_unsupported">Temat nie wspierany</string>
