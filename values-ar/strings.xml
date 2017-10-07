@@ -200,6 +200,9 @@ Ananda Bibek Ray.
     <string name="battery_low_summary">Prevents battery drain due to repeated battery low notification from system</string>
     <string name="enable_haptic">Enable haptic feedback</string>
     <string name="charge_indicator">Show charge indicator</string>
+    <string name="apps">Apps</string>
+    <string name="persistent_msg">Mark those apps whose persistent notifications should be shown</string>
+    <string name="persistent_title">Show persistent notifications</string>
 
 
 </resources>
