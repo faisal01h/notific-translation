@@ -198,11 +198,16 @@
         <item>Sempre</item>
     </string-array>
 
+
 <string name="disable_battery_low_title">Disabilita quando la batteria è scarica</string>
 <string name="battery_low_summary">Previene il consumo della batteria dovuto alle ripetute notifiche di batteria scarica dal sistema</string>
 <string name="quick_reply_title">Pulsante di risposta rapida</string>
 <string name="quick_reply_summary">Mosta il pulsante di risposta rapida in Whatsapp o Telegram</string>
     <string name="enable_haptic">Abilita il feedback tattile</string>
     <string name="charge_indicator">Mostra l'indicatore di ricarica</string>
+    <string name="apps">Apps</string>
+    <string name="persistent_msg">Mark those apps whose persistent notifications should be shown</string>
+    <string name="persistent_title">Show persistent notifications</string>
+
 
 </resources>
