@@ -198,5 +198,8 @@
     <string name="battery_low_summary">Zapobiega wyczerpaniu baterii dzięki powtarzającym się powiadomieniom o niskim poziome baterii</string>
     <string name="enable_haptic">Włącz haptic feedback</string>
     <string name="charge_indicator">Pokaż wskaźnik ładowania</string>
+    <string name="apps">Apps</string>
+    <string name="persistent_msg">Mark those apps whose persistent notifications should be shown</string>
+    <string name="persistent_title">Show persistent notifications</string>
 
 </resources>
