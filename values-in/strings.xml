@@ -155,28 +155,28 @@
     <string name="convo_mode_help_msg">Pisahkan pemberitahuan untuk setiap kontak. Membuatnya mudah untuk menggunakan fitur balas cepat Notific</string>
     <string name="double_tap_sleep">Ketuk dua kali untuk matikan layar</string>
     <string name="double_tap_sleep_detail">Ketuk dua kali pada tempat kosong di munculan untuk matikan layar</string>
-    <string name="lockscreen_disabled">Lockscreen disabled</string>
-    <string name="lockscreen_enabled">Lockscreen enabled</string>
-    <string name="theme_unsupported">Theme not supported</string>
-    <string name="theme_unsupported_msg">Please use \'Android Wear\' or \'Ambient Dark\' theme to enable Lockscreen</string>
-    <string name="uninstall_warning_condition">Remember to disable this option when you want to uninstall Notific.</string>
-    <string name="dont_show_popup_title">Don\'t show pending popups on manual unlock</string>
-    <string name="dont_show_popup_msg">Popup is shown only when notification comes. This setting works only if Lockscreen is not set.</string>
-    <string name="android_wear_theme_settings">Android Wear theme settings</string>
-    <string name="Notification_title_size">Notification title font size</string>
-    <string name="notification_body_size">Notification body font size</string>
-    <string name="clock_size">Clock font size</string>
-    <string name="clock_format">12hr format</string>
-    <string name="clock_am_pm">Show AM / PM</string>
-    <string name="reply_settings">Reply Settings</string>
-    <string name="theme_custom">THEME CUSTOMIZATIONS</string>
-    <string name="cover_the_proximity_sensor_with_your_hand_and_click_the_button">Cover the proximity sensor with your hand and click the button</string>
+    <string name="lockscreen_disabled">Kunci layar dinonaktifkan</string>
+    <string name="lockscreen_enabled">Kunci layar diaktifkan</string>
+    <string name="theme_unsupported">Tema tidak didukung</string>
+    <string name="theme_unsupported_msg">Mohon gunakan tema \'Android Wear\' atau \'Ambient Dark\' untuk mengaktifkan kunci layar</string>
+    <string name="uninstall_warning_condition">Ingatlah untuk menonaktifkan opsi ini sebelum menghapus pemasangan Notific.</string>
+    <string name="dont_show_popup_title">Jangan tunjukkan popup yang menunggu saat kunci layar dibuka secara manual</string>
+    <string name="dont_show_popup_msg">Popup hanya keluar saat notifikasi muncul. Setelan ini hanya bekerja jika kunci layar tidak diatur.</string>
+    <string name="android_wear_theme_settings">Setelan tema Android Wear</string>
+    <string name="Notification_title_size">Ukuran tulisan judul notifikasi</string>
+    <string name="notification_body_size">Ukuran tulisan isi notifikasi</string>
+    <string name="clock_size">Ukuran tulisan jam</string>
+    <string name="clock_format">Format 12 jam</string>
+    <string name="clock_am_pm">Tampilkan AM / PM</string>
+    <string name="reply_settings">Setelan balasans</string>
+    <string name="theme_custom">KUSTOMISASI TEMA</string>
+    <string name="cover_the_proximity_sensor_with_your_hand_and_click_the_button">Halangi sensor jarak dengan tanganmu dan ketuk tombol</string>
     <string name="set_covered_value">Set covered value</string>
-    <string name="uncover_the_proximity_sensor_and_click_the_button">Uncover the proximity sensor and click the button</string>
+    <string name="uncover_the_proximity_sensor_and_click_the_button">Jangan halangi sensor jarak dan ketuk tombol</string>
     <string name="set_uncovered_value">Set uncovered value</string>
     <string name="show_system_lockscreen_if_no_notifications">Show system lockscreen if no notifications</string>
-    <string name="quick_reply_title">Quick reply button</string>
-    <string name="quick_reply_summary">Show quick reply button in Whatsapp or Telegram</string>
+    <string name="quick_reply_title">Tombol balas cepat</string>
+    <string name="quick_reply_summary">Tampilkan balas cepat untuk Whatsapp atau Telegram</string>
 
 
     <string-array name="immersive_mode">
@@ -194,16 +194,16 @@
     </string-array>
 
     <string-array name="after_unlock_mode">
-        <item>If unseen</item>
-        <item>Never</item>
-        <item>If notification present</item>
-        <item>Always</item>
+        <item>Jika belum dilihat</item>
+        <item>Jangan pernah</item>
+        <item>Jika ada notifikasi</item>
+        <item>Selalu</item>
     </string-array>
-    <string name="disable_battery_low_title">Disable when battery low</string>
-    <string name="battery_low_summary">Prevents battery drain due to repeated battery low notification from system</string>
-    <string name="enable_haptic">Enable haptic feedback</string>
-    <string name="charge_indicator">Show charge indicator</string>
-    <string name="apps">Apps</string>
+    <string name="disable_battery_low_title">Matikan jika baterai lemah</string>
+    <string name="battery_low_summary">Menghemat baterai yang diakibatkan oleh notifikasi baterai lemah dari sistem</string>
+    <string name="enable_haptic">Nyalakan umpan balik getar</string>
+    <string name="charge_indicator">Tampilkan indikator pengisian daya</string>
+    <string name="apps">Aplk</string>
     <string name="persistent_msg">Mark those apps whose persistent notifications should be shown</string>
     <string name="persistent_title">Show persistent notifications</string>
 
